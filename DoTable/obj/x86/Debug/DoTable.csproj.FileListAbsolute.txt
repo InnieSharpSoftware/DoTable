@@ -1,0 +1,8 @@
+c:\users\inniesharp\documents\visual studio 2010\Projects\DoTable\DoTable\bin\Debug\DoTable.exe
+c:\users\inniesharp\documents\visual studio 2010\Projects\DoTable\DoTable\bin\Debug\DoTable.pdb
+c:\users\inniesharp\documents\visual studio 2010\Projects\DoTable\DoTable\obj\x86\Debug\DoTable.Form1.resources
+c:\users\inniesharp\documents\visual studio 2010\Projects\DoTable\DoTable\obj\x86\Debug\DoTable.Properties.Resources.resources
+c:\users\inniesharp\documents\visual studio 2010\Projects\DoTable\DoTable\obj\x86\Debug\DoTable.csproj.GenerateResource.Cache
+c:\users\inniesharp\documents\visual studio 2010\Projects\DoTable\DoTable\obj\x86\Debug\DoTable.exe
+c:\users\inniesharp\documents\visual studio 2010\Projects\DoTable\DoTable\obj\x86\Debug\DoTable.pdb
+C:\Users\inniesharp\documents\visual studio 2010\Projects\DoTable\DoTable\obj\x86\Debug\DoTable.csprojResolveAssemblyReference.cache
